@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RoadMAP/BasicDataStructures/Hash (Dict).md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,6 +64,14 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "d78e7f4d1ea095ae",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RoadMAP/BasicDataStructures/Hash (Dict).md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RoadMAP/BasicDataStructures/Hash (Dict).md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RoadMAP/BasicDataStructures/Hash (Dict).md"
+                "file": "README.md"
               }
             }
           }
@@ -148,8 +156,9 @@
   },
   "active": "00a8286ef21f1181",
   "lastOpenFiles": [
-    "Python/Basic Algorithm syntax and functions.md",
     "RoadMAP/BasicDataStructures/Hash (Dict).md",
+    "Spaces",
+    "Python/Basic Algorithm syntax and functions.md",
     "Python",
     "README.md",
     "RoadMAP/BasicDataStructures",
