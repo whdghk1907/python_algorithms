@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RoadMAP/BasicDataStructures/Untitled.md",
+                "file": "RoadMAP/BasicDataStructures/Basic Algorithm syntax and functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RoadMAP/BasicDataStructures/Untitled.md",
+                "file": "RoadMAP/BasicDataStructures/Basic Algorithm syntax and functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RoadMAP/BasicDataStructures/Untitled.md",
+                "file": "RoadMAP/BasicDataStructures/Basic Algorithm syntax and functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RoadMAP/BasicDataStructures/Untitled.md"
+                "file": "RoadMAP/BasicDataStructures/Basic Algorithm syntax and functions.md"
               }
             }
           }
@@ -146,11 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b64a0ae35569788",
+  "active": "00a8286ef21f1181",
   "lastOpenFiles": [
     "Python",
     "README.md",
-    "RoadMAP/BasicDataStructures/Untitled.md",
+    "RoadMAP/BasicDataStructures/Basic Algorithm syntax and functions.md",
     "RoadMAP/BasicDataStructures",
     "RoadMAP"
   ]
