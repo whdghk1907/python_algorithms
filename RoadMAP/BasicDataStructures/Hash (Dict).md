@@ -1,7 +1,5 @@
-
-1. Pocketmon
-
-https://school.programmers.co.kr/learn/courses/30/lessons/1845
+https://school.programmers.co.kr/learn/courses/30/parts/12077
+# 1. Pocketmon
 
 ### My Solution()
 
@@ -44,4 +42,40 @@ def solution(nums):
 ``` python
 def solution(ls):
     return min(len(ls)/2, len(set(ls)))
+```
+
+
+# 2. Runner who didn't finish
+
+### My Solution()
+
+- too long and unintuitive 
+
+
+``` python
+def solution(participant, completion):
+    runner_count = {}
+    complet_count = {}
+    
+    for runner in participant:
+        if runner in runner_count:
+            runner_count[runner] += 1
+        else:
+            runner_count[runner] = 0
+            
+    for complet in completion:
+        if complet in complet_count:
+            complet_count[complet] += 1
+        else:
+            complet_count[complet] = 0
+            
+    for runner in runner_count:
+        runner_num = runner_count[runner]
+        if runner in complet_count:
+            complet_num = complet_count[runner]
+            if runner_num != complet_num:
+                return runner
+        else:
+            return runner                
+
 ```
