@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3d98adccf686e214",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +84,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -154,7 +166,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "00a8286ef21f1181",
+  "active": "3d98adccf686e214",
   "lastOpenFiles": [
     "Python/Basic Algorithm syntax and functions.md",
     "README.md",
